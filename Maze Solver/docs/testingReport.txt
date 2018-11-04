@@ -1,0 +1,32 @@
+****************************************************
+Nick Major		0879292
+CIS2520		        Assignment 01
+06/05/15
+****************************************************
+
+**************
+Stack Testing
+**************
+the Stack ADT is thoroughly tested by testing each of the functions:
+- createStack
+- push
+- visit
+- isEmpty
+- pop
+- peek
+- destroyStack
+
+Each function is tested by each case:
+- basic small numbers
+- large numbers
+- negative number
+- NULL
+
+
+*************
+Maze Testing
+*************
+the maze is tested pretty well. The algorithm has problems with some mazes, but can do most. I tested the algorithm with the mazes in the assets folder as well as some others. I tested different sizes and different locations for the start and finishes of the mazes. The starting (’S’) and ending (‘F’) positions don’t work at the top or bottom of the maze.
+
+
+
